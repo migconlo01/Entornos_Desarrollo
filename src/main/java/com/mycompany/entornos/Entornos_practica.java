@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Miguel Ángel Conde
  */
-public class Entornos_practica {
+public class Entornos {
 
     static int a;
     static int b;
